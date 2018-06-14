@@ -55,3 +55,7 @@
 .content {
 	display: flex;
 }
+
+.sidebar {
+	flex: 0 0 12em;
+}
